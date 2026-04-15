@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /secreto/
+
+Sitemap: https://PietroMO06.github.io/sitemap.xml
